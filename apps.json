@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "id": "test_app",
+      "name": "Тестовое приложение",
+      "description": "Первое приложение в магазине",
+      "version": "1.0",
+      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon_test.png",
+      "apk": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/apks/test_app.apk",
+      "downloads": 0
+    }
+  ]
+}
