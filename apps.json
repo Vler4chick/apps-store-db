@@ -5,8 +5,8 @@
       "name": "TEST",
       "description": "Тестовая игра — первое приложение в магазине Apps",
       "version": "1.0.0",
-      "icon": "https://drive.google.com/uc?id=1l0aSXGpIx8fqRLf9P-n77QhuBnmV4PKr&export=download",
-      "apk": "https://drive.google.com/uc?id=1ZoACJaI674r79PfcbZToUS6YCIiFCZN8&export=download",
+      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/test_icon.png",
+      "apk": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/apks/test.apk",
       "downloads": 0
     }
   ]
