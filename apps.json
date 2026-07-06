@@ -5,8 +5,8 @@
       "name": "TEST",
       "description": "Тестовая игра — первое приложение в магазине Apps",
       "version": "1.0.0",
-      "icon": "https://drive.google.com/uc?export=download&id=1l0aSXGpIx8fqRLf9P-n77QhuBnmV4PKr",
-      "apk": "https://drive.google.com/uc?export=download&id=1ZoACJaI674r79PfcbZToUS6YCIiFCZN8",
+      "icon": "https://drive.google.com/uc?id=1l0aSXGpIx8fqRLf9P-n77QhuBnmV4PKr&export=download",
+      "apk": "https://drive.google.com/uc?id=1ZoACJaI674r79PfcbZToUS6YCIiFCZN8&export=download",
       "downloads": 0
     }
   ]
