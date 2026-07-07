@@ -1,94 +1,9 @@
 {
-  "apps": [
-    {
-      "id": "space_racer",
-      "name": "Космический рейс",
-      "description": "Лети по космосу и собирай звёзды",
-      "version": "1.2.0",
-      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon.png",
-      "apk": "https://github.com/Vler4chick/apps-store-db/releases/download/v1.0.0/test.apk",
-      "downloads": 147
-    },
-    {
-      "id": "block_puzzle",
-      "name": "Блок-пазл",
-      "description": "Собирай фигуры и проходи уровни",
-      "version": "2.0.1",
-      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon.png",
-      "apk": "https://github.com/Vler4chick/apps-store-db/releases/download/v1.0.0/test.apk",
-      "downloads": 89
-    },
-    {
-      "id": "tower_defense",
-      "name": "Башня обороны",
-      "description": "Строй башни и защищай крепость",
-      "version": "1.7.0",
-      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon.png",
-      "apk": "https://github.com/Vler4chick/apps-store-db/releases/download/v1.0.0/test.apk",
-      "downloads": 212
-    },
-    {
-      "id": "word_finder",
-      "name": "Поиск слов",
-      "description": "Находи слова из букв за время",
-      "version": "3.1.2",
-      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon.png",
-      "apk": "https://github.com/Vler4chick/apps-store-db/releases/download/v1.0.0/test.apk",
-      "downloads": 56
-    },
-    {
-      "id": "zombie_survivor",
-      "name": "Выживание зомби",
-      "description": "Выживай в мире, полном зомби",
+      "id": "test_game",
+      "name": "TEST",
+      "description": "Тестовая игра",
       "version": "1.0.0",
-      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon.png",
+      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/test_icon.png",
       "apk": "https://github.com/Vler4chick/apps-store-db/releases/download/v1.0.0/test.apk",
-      "downloads": 333
-    },
-    {
-      "id": "pixel_runner",
-      "name": "Пиксельный бегун",
-      "description": "Беги и прыгай по пиксельным платформам",
-      "version": "2.3.0",
-      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon.png",
-      "apk": "https://github.com/Vler4chick/apps-store-db/releases/download/v1.0.0/test.apk",
-      "downloads": 78
-    },
-    {
-      "id": "chess_master",
-      "name": "Шахматный мастер",
-      "description": "Играй в шахматы с компьютером",
-      "version": "1.5.0",
-      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon.png",
-      "apk": "https://github.com/Vler4chick/apps-store-db/releases/download/v1.0.0/test.apk",
-      "downloads": 45
-    },
-    {
-      "id": "fruit_slice",
-      "name": "Фруктовый ниндзя",
-      "description": "Разрезай фрукты и набирай очки",
-      "version": "2.0.0",
-      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon.png",
-      "apk": "https://github.com/Vler4chick/apps-store-db/releases/download/v1.0.0/test.apk",
-      "downloads": 167
-    },
-    {
-      "id": "car_parking",
-      "name": "Парковка авто",
-      "description": "Паркуй машину в сложных местах",
-      "version": "1.2.0",
-      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon.png",
-      "apk": "https://github.com/Vler4chick/apps-store-db/releases/download/v1.0.0/test.apk",
-      "downloads": 94
-    },
-    {
-      "id": "memory_cards",
-      "name": "Карты памяти",
-      "description": "Найди пары одинаковых карт",
-      "version": "1.0.0",
-      "icon": "https://raw.githubusercontent.com/Vler4chick/apps-store-db/main/icons/icon.png",
-      "apk": "https://github.com/Vler4chick/apps-store-db/releases/download/v1.0.0/test.apk",
-      "downloads": 31
-    }
-  ]
+      "downloads": 0
 }
